@@ -7,5 +7,5 @@ spring:
       enabled: true
       server:
         git:
-          uri: C:\Workspaces\Telefonica\MicroserviciosAiwi\aiwi-config-repository
+          uri: C:\Workspaces\Telefonica\MicroserviciosAwi\awi-config-repository
           default-label: master
