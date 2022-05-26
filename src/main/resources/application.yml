@@ -1,0 +1,11 @@
+server:
+  port: 8888
+
+spring:
+  cloud:
+    config:
+      enabled: true
+      server:
+        git:
+          uri: C:\Workspaces\Telefonica\MicroserviciosAiwi\aiwi-config-repository
+          default-label: master
